@@ -84,3 +84,7 @@ figure img {
 table, th, td{
 	border: solid 1px black;
 }
+
+a {
+	color: black;
+}
