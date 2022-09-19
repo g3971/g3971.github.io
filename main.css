@@ -12,7 +12,7 @@ body {
 #table-of-contents a {
 	display: flex;
 	justify-content: space-between;
-	height: 1em;
+	height: 2em;
 	border-bottom: dotted 1px black;
 }
 
@@ -87,4 +87,12 @@ table, th, td{
 
 a {
 	color: black;
+}
+
+a:hover {
+	color: gray;
+}
+
+.toc-text, .toc-number {
+	display; inline-block;
 }
