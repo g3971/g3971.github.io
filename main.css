@@ -1,0 +1,31 @@
+#table-of-contents a {
+	display: flex;
+	justify-content: space-between;
+	height: 1em;
+	border-bottom: dotted 1px black;
+}
+#table-of-contents {
+	width: 80%;
+	margin: 0 auto;
+}
+.l-2 {
+	margin-left: 1em;
+}
+.l-3 {
+	margin-left: 2em;
+}
+.l-4 {
+	margin-left: 3em;
+}
+.l-5 {
+	margin-left: 4em;
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	width: 80%;
+	margin: 1em auto;
+}
